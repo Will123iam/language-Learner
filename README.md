@@ -7,6 +7,18 @@ I have developed this application to help me with my leanguage learning journey.
 This app has substantially improved my understanding of OOP and tkinter. I have learnet how to manipulate json file structures within python and the kind of 
 features needed to have a positive user experience (UX).
 
+## Table of Contents
+- [Downloading / Installing](#download-and-run)
+- [First time running](#opening-for-the-first-time)
+- [Using the app:](#navigating-the-main-window)
+  - [Add words](#adding-new-words)
+  - [Remove words](#deleting-a-word)
+  - [Change highlight colour](#changing-highlight-colour)
+- [Filters](#filters)
+- [File managment](#creating-and-opening-files)
+- [Settings](#changing-settings)
+
+
 
 ## Download and run
 Simply download the application file under the lastet release. Please note, support currently is MacOS only.
@@ -103,7 +115,7 @@ To group items simply select the items you want to group and then go: Filters --
 
 All items you did not select will now be hidden from view.
 
-## Creating / opening files
+## Creating and opening files
 Under the file menu within the top menu bar, you can find options to do with file managment.
 
 ### Some of the options include:
