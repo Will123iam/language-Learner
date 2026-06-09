@@ -15,7 +15,7 @@ features needed to have a positive user experience (UX).
   - [Remove words](#deleting-a-word)
   - [Change highlight colour](#changing-highlight-colour)
 - [Filters](#filters)
-- [File managment](#creating-and-opening-files)
+- [File management](#creating-and-opening-files)
 - [Settings](#changing-settings)
 
 
