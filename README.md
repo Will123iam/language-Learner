@@ -77,16 +77,66 @@ The selected words will now be pasted at the bottom of the list.
 To undo an action, E.g. Undo highlighting, uncopy or undelete, simply press Command + z or go: Edit --> Undo.
 
 ## Filters
+To remove a filter of any kind simply go: Filter --> Reset.
+
+This option will change to inform you wether or not you have any filters applyed.
+
+If you want to save your applayed filters to a new file, simply press Command + S or go to: File --> Save As...
+
 ### Start / End letter filters
 You can filter words by start letter or end letter. Simply go: Filters --> Starts With... / Ends With...
 
 A dialog should apear where you enter the starting / ending letter you would like to look for.
 The main window will update displaying only the words stored that match your filter.
 
-To remove a filter of any kind simply go: Filter --> Reset.
-
-This option will change to inform you wether or not you have any filters applyed.
-
 ### Organise alphabetically
 The program can automatically organise your saved words alphabetically. This can either be by the first word or the second word.
+The options automatically change to show the label you have given each word. 
+
+### Search
+To search for a word, simply go: Filters --> Search.
+
+A dialog box will apear where you can enter a word and then press "Ok" to search. Now all words which do not contain your entered search will be hidden from the main window.
+
+### Grouping
+To group items simply select the items you want to group and then go: Filters --> Group
+
+All items you did not select will now be hidden from view.
+
+## Creating / opening files
+Under the file menu within the top menu bar, you can find options to do with file managment.
+
+### Some of the options include:
+- Opening a file
+- Creating a new file
+- Saving the current file as
+- Deleting the current file + opening a different one
+
+## Changing settings
+To open settings press ether Command + , or go to: languageLearner --> Settings...
+
+Within this window you can change how the app functions. After making a change, you will pe prompted to restart the app to allow the changes to take effect.
+You can press cancel and the changes will not be applyed untill you menually restart the app.
+
+### General Tab
+Currently auto text scalling is not finished and so it is grayed out.
+
+#### Here you can customise:
+- Word entry box lables
+- Wether window postion is remembered or not on restart
+- Auto scalling of text as the window size changes
+
+<img width="479" height="274" alt="Screenshot 2026-06-09 at 1 25 55 pm" src="https://github.com/user-attachments/assets/5b65644d-7ea0-4464-8a69-57ae396f576a" />
+<img width="775" height="631" alt="Screenshot 2026-06-09 at 1 37 13 pm" src="https://github.com/user-attachments/assets/ecdb65a9-e513-4fef-a116-ec92b487434d" />
+
+### Style Tab
+Here you can customise the text size and theme of the application.
+
+The recomended text size is between 15 and 20. However, if using in full screen you might what it larger.
+
+Currently themes is not supported. 
+
+<img width="375" height="314" alt="Screenshot 2026-06-09 at 1 35 40 pm" src="https://github.com/user-attachments/assets/2fc91a7e-7fdd-4460-8c98-997427c831cd" />
+
+
 
